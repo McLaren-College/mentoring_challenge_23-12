@@ -18,6 +18,7 @@ Output: [
   'bd', 'be', 'cd',
   'ce', 'cf'
 ]
+so if you look at the above input, given keystroke is "23", and we know for 2 in keypad we have a, b, c as the choice similarly for 3 we have d, e, f as the choice. So by combining each possibility alot of words can be formed now to see whether they are valid or not we have to look at english_words.txt and see if formed word exist in it or not.
 ```
 
 ```
