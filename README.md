@@ -4,6 +4,8 @@ Given a string containing digits from 2-9 inclusive, return all possible valid E
 
 You are given a list of 10000 English words in the file [english_words.txt](./english_words.txt) which you can use to check if any word is a valid word or not.
 
+See [here](https://www.geeksforgeeks.org/node-js-fs-readfilesync-method/) to find out how to read files in nodejs.
+
 A mapping of digit to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters.
 
 ![](./keypad.png)
